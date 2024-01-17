@@ -1,0 +1,26 @@
+.selected {
+    background-color: yellow;
+    cursor: pointer;
+  }
+  .cancel-buttons {
+    margin-top: 10px;
+  }
+  
+  .cancel-buttons .btn {
+    margin-right: 10px;
+  }
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  
+  .btn {
+    cursor: pointer;
+  }
+ 
+  
+  
+  
+  
+  
